@@ -9,3 +9,6 @@ Information need:
 2. weight, cylinders and horsepower of the car.
 
 3. current petrol cost.
+
+The App link is: 
+https://llqivy.shinyapps.io/Annual_Fuel_Cost_Calculator
